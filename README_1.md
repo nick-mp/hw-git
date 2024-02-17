@@ -13,6 +13,8 @@
 `4. создал новый файл conf1`
 `3. добавил тройку коммитов сделал пуш`
 
-1. `1 push`
+1. `1 commit`
+   ![commit](https://github.com/nick-mp/hw-git/blob/main/first_commit.png)
+2. `1 push`
    ![push](https://github.com/nick-mp/hw-git/blob/main/1%20push.png)
 
