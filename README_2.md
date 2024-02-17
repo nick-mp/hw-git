@@ -1,0 +1,9 @@
+### Задание 2
+
+`1. Добавить файл .gitignore`
+`2. Напишите правила в этом файле, чтобы игнорировать любые файлы .pyc, а также все файлы в директории cache.`
+`3. Сделайте коммит и пуш`
+
+1. `add-gitignore`
+   ![gitignore](https://github.com/nick-mp/hw-git/blob/main/gitignore.png)
+
