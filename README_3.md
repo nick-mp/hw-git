@@ -8,7 +8,7 @@
 `4. Добавьте файл в основной ветке с произвольным содержимым, сделайте комит и пуш . Так имитируется продолжение общекомандной разработки в основной ветке во время разработки отдельного функционала в dev ветке.`
 `5. Сделайте мердж dev ветки в основную с помощью git merge dev. Напишите осмысленное сообщение в появившееся окно комита.`
 
-`https://github.com/nick-mp/hw-git/commit/55a1c01962894318f681235314ac58fc29f5dfa6`
+[link_to_commit](https://github.com/nick-mp/hw-git/commit/55a1c01962894318f681235314ac58fc29f5dfa6)
 
 1. `merge`
    ![merge](https://github.com/nick-mp/hw-git/blob/main/network%20graf.png)
