@@ -10,6 +10,8 @@
 `*.рус`
 `cache/*`
 
+`https://github.com/nick-mp/hw-git/commit/3239c2b357af524bf6634ca9685a07a0d42a477a`
+
 1. `add-gitignore`
    ![gitignore](https://github.com/nick-mp/hw-git/blob/main/gitignore.png)
 
