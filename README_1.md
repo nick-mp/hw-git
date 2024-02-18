@@ -1,7 +1,5 @@
 # Домашнее задание к занятию "GIT" - Горегляд Николай
 
-
-
 ### Задание 1
 
 `Первый пуш`
@@ -12,8 +10,6 @@
 `3. произвел первоначальную настройку репозитория`
 `4. создал новый файл conf1`
 `3. добавил тройку коммитов сделал пуш`
-
-[link_to_commit](https://github.com/nick-mp/hw-git/commit/ab15095e17078df711da423d72a2821b2d3763d3)
 
 1. `1 commit`
    ![commit](https://github.com/nick-mp/hw-git/blob/main/first_commit.png)
